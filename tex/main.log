@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  21 APR 2024 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  25 MAY 2024 02:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/шаблон/tex/main.tex
-(/Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/шаблон/tex/main.tex
+**/Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/tex/main.tex
+(/Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/tex/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -781,7 +781,7 @@ Package hyperref Info: Link coloring ON on input line 123.
 \openout2 = `unformal_title.aux'.
 
  (./unformal_title.tex
-<media/ITMO_logo.png, id=5, 1043.9pt x 411.5375pt>
+<media/ITMO_logo.png, id=29, 1043.9pt x 411.5375pt>
 File: media/ITMO_logo.png Graphic file (type png)
 <use media/ITMO_logo.png>
 Package pdftex.def Info: media/ITMO_logo.png  used on input line 43.
@@ -804,23 +804,178 @@ l.129
 ]
 \openout2 = `content.aux'.
 
- (./content.tex) (./main.aux (./unformal_title.aux) (./content.aux))
+ (./content.tex (./filtration_img.tex
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/7.png, id=57, 1027.84pt x 1027.84pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/7.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/7.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/7.png  used on input line 5.
+(pdftex.def)             Requested size: 500.76852pt x 500.77592pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/abs_fourier_log.png, id=58, 740.0448pt x 740.0448pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/abs_fourier_log.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/abs_fourier_log.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/abs_fourier_log.png  used on input line 16.
+(pdftex.def)             Requested size: 500.76852pt x 500.7734pt.
+ [2
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/7.png>] [3 </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/abs_fourier_log.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/image.png, id=70, 348.30125pt x 285.065pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/image.png  used on input line 26.
+(pdftex.def)             Requested size: 500.76852pt x 409.87126pt.
+ [4
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/image.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/restored.png, id=77, 740.0448pt x 740.0448pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/restored.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/restored.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/restored.png  used on input line 36.
+(pdftex.def)             Requested size: 500.76852pt x 500.7734pt.
+) [5
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/restored.png>] (./blur_img.tex
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png, id=84, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png  used on input line 5.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [6
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png, id=97, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png  used on input line 25.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png, id=98, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png  used on input line 31.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [7
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png, id=107, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png  used on input line 39.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png, id=108, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png  used on input line 49.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [8
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png, id=117, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png  used on input line 57.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png, id=118, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png  used on input line 63.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [9
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png>]
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_3.png  used on input line 73.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_5.png  used on input line 79.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [10
+
+]
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/block_7.png  used on input line 87.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_3.png  used on input line 93.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [11
+
+]
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_5.png  used on input line 101.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/gaussian_7.png  used on input line 107.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+) [12
+
+] (./sharpen_img.tex
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png  used on input line 5.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [13
+
+]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png, id=154, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png  used on input line 26.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png  used on input line 35.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+) [14
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/laplacian.png>] (./edge_detection.tex
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/bw.png  used on input line 5.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+ [15
+
+]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png, id=167, 516.0078pt x 538.4115pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png  used on input line 26.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png  used on input line 36.
+(pdftex.def)             Requested size: 250.38426pt x 261.25249pt.
+) [16
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/edge_x.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/Unknown.jpeg, id=176, 259.97125pt x 194.7275pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/Unknown.jpeg Graphic file (type jpg)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/Unknown.jpeg>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/Unknown.jpeg  used on input line 29.
+(pdftex.def)             Requested size: 500.76852pt x 375.09372pt.
+) [17
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab6_Furry_series/Unknown.jpeg>] (./main.aux (./unformal_title.aux) (./content.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: E79C51B12C4E7673476E974BDAD3C0C3;1480.
  ) 
 Here is how much of TeX's memory you used:
- 14037 strings out of 476025
- 220360 string characters out of 5790017
+ 14255 strings out of 476025
+ 230304 string characters out of 5790017
  1853388 words of memory out of 5000000
- 34233 multiletter control sequences out of 15000+600000
- 521155 words of font info for 47 fonts, out of 8000000 for 9000
+ 34353 multiletter control sequences out of 15000+600000
+ 525890 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,95p,487b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb>
-Output written on main.pdf (2 pages, 84297 bytes).
+ 75i,7n,95p,533b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb>
+Output written on main.pdf (18 pages, 11343910 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
